@@ -29,3 +29,9 @@
 button {
     width: 200px;
 }
+
+/* Staff Page */
+.intro {
+    border: 1px solid black;
+    text-align: center;
+}
