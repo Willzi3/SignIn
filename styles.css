@@ -45,3 +45,35 @@ button {
 .row button {
     margin-bottom: 2px;
 }
+
+/* Zachary */
+
+.card img {
+    width: 285px;
+    height: 250px;
+    border-radius: 50%;
+}
+
+div.hero-img {
+    display: flex;
+    justify-content: center;
+}
+.form-check {
+    border: 1px solid black;
+    display: flex;
+}
+
+.screening-ques {
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    width: 500px;
+    
+}
+
+div.screening {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
