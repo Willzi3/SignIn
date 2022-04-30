@@ -19,7 +19,7 @@
     align-items: center;
 }
 .select {
-    width: 200px;
+    width: 250px;
     padding: 20px;
     border: 1px solid black;
     display: flex;
@@ -32,7 +32,16 @@ button {
 }
 .intro {
     border: 1px solid black;
+    text-align: center;
+}
+
+#Landing .row {
+    border: 1px solid black;
     display: flex;
-    flex-direction: column;
     justify-content: center;
+    padding: 10px;
+}
+
+.row button {
+    margin-bottom: 2px;
 }
