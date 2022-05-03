@@ -77,3 +77,13 @@ div.screening {
     justify-content: center;
     align-items: center;
 }
+
+/* footer */
+footer {
+    padding: 10px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
